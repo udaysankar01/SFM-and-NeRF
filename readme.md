@@ -12,7 +12,7 @@ All the results will be stored in the folder shown below:
 `./Data/IntermediateOutputImages/`
 
 
-## Phase 2
+## Phase 2 - NeRF
 Use this command to open the directory:
 `cd usankar_gmanikandan_sparashar_hw1/Phase 2`
 
